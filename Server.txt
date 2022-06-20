@@ -1,0 +1,3 @@
+Sample Action
+
+Adding the step 1: Added the text extension
